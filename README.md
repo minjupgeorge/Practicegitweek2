@@ -8,3 +8,5 @@ To practice git and branching
   - push it
   - commit
   - pull it
++ Create Issue about github
++ git
